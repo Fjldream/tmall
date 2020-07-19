@@ -1120,6 +1120,31 @@ main{
     font-family: 'iconfont';
     font-size: 18px;
 }
+
+ .main-left-fixed li:nth-child(2):hover{   
+    background-color:#64C333 !important;
+ }
+ .main-left-fixed li:nth-child(3):hover{   
+    background-color:black !important;
+ }
+ .main-left-fixed li:nth-child(4):hover{   
+    background-color:#EA5F8D !important;
+ }
+ .main-left-fixed li:nth-child(5):hover{   
+    background-color:#0AA6E8 !important;
+ }
+ .main-left-fixed li:nth-child(6):hover{   
+    background-color:#64C333 !important;
+ }
+ .main-left-fixed li:nth-child(7):hover{   
+    background-color:#F15453 !important;
+ }
+.main-left-fixed li:nth-child(8):hover{   
+    background-color:#19C8A9 !important;
+ }
+ .main-left-fixed li:nth-child(9):hover{   
+    background-color:black !important;
+ }
 .end{
     background: url(../image/end.png) no-repeat center;
     width: 1230px;
